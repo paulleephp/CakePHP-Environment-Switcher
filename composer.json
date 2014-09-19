@@ -1,5 +1,5 @@
 {
-    "name": "angelxmoreno/CakePHP-Environment-Switcher",
+    "name": "paulleephp/CakePHP-Environment-Switcher",
     "description": "Environment Switching class for CakePHP",
     "require": {
         "php": ">=5.2.8",
